@@ -28,3 +28,5 @@ List of open source data
 * Finance
 
       * UCI German credit data set
+
+           * https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
