@@ -24,6 +24,10 @@ List of open source data
 
       * https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006951#sec016
 
+      * https://singlecell.broadinstitute.org/single_cell
+
+      * https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124310
+
 
 * Finance
 
