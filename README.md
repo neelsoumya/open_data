@@ -34,3 +34,7 @@ List of open source data
       * UCI German credit data set
 
            * https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+
+* All domains
+
+      https://github.com/EpistasisLab/pmlb
