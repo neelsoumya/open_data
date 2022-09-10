@@ -38,3 +38,7 @@ List of open source data
 * All domains
 
       https://github.com/EpistasisLab/pmlb
+
+* Satellite data
+
+      https://gisgeography.com/free-satellite-imagery-data-list/ 
